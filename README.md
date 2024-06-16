@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Hrishavvv/hrishavvv/assets/114722342/72e09ecd-59f0-4510-8214-5b1dfb63411b" alt="Banner Img">
+</p>
+
 <h1 align="center">Hi 👋, I'm Hrishav Sanyal</h1>
 <h3 align="center">A passionate developer from India</h3>
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner Img">
+  <img src="https://github.com/Hrishavvv/hrishavvv/assets/114722342/19191bf6-68fc-4a43-ac27-e9ec3cda2760" alt="Banner Img">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hrishav Sanyal</h1>

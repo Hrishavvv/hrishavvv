@@ -1,5 +1,4 @@
 ![Banner](https://i.pinimg.com/originals/67/30/e5/6730e5b2994140c19085e9d66fe75937.gif)
-)
 <h1 align="center">Hi 👋, I'm Hrishav Sanyal</h1>
 <h3 align="center">A passionate developer from India</h3>
 

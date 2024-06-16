@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hrishav Sanyal</h1>
-<h3 align="center">A passionate programmer & developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:986/1*Fl7ztxaek3yQMEWKm8hB7Q.gif" alt="I'll Hack You">
+  <img src="https://media.giphy.com/media/zrdUjl6N99nLq/giphy.gif?cid=790b76119kovreaaxpougp039ueza1l17szsqaqfeljf4fx2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="I'll Hack You">
 </p
 
 - 🔭 I’m currently working on [Electron](https://github.com/Hrishavvv/Electron)

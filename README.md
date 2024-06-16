@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrishav Sanyal</h1>
 <h3 align="center">A passionate programmer & developer from India</h3>
 
-<img src="https://leverageedu.com/blog/wp-content/uploads/2021/08/Hacker.gif" style="display: block; margin-left: auto; margin-right: auto;">
-
+<img src="https://leverageedu.com/blog/wp-content/uploads/2021/08/Hacker.gif" style="display: block; margin: auto;">
 
 - 🔭 I’m currently working on [Electron](https://github.com/Hrishavvv/Electron)
 

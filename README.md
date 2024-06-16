@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hrishav Sanyal</h1>
 <h3 align="center">A passionate programmer & developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishavvv" alt="hrishavvv" /></a> </p>
-
 - 🔭 I’m currently working on [Electron](https://github.com/Hrishavvv/Electron)
 
 - 🌱 I’m currently learning **React, Rust, C#**

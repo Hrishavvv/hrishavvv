@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hrishav</h1>
-<h3 align="center">A passionate programmer from India</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/zrdUjl6N99nLq/giphy.gif?cid=790b76119kovreaaxpougp039ueza1l17szsqaqfeljf4fx2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="I'll Hack You">
 </p

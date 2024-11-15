@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **React, Rust, C#**
 - 👨‍💻 All of my projects are available at [https://github.com/Hrishavvv?tab=repositories](https://github.com/Hrishavvv?tab=repositories)
 - 💬 Ask me about **java, python, javascript, cybersecurity**
-- 📫 How to reach me **artemisx240@gmail.com**
 - ⚡ Fun fact **I have learnt pretty much everything from the Internet**
 
 <h3 align="left">Connect with me:</h3>

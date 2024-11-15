@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishavvv&show_icons=true&locale=en&theme=tokyonight" alt="hrishavvv" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishavvv&theme=tokyonight&show_icons=true&layout=compact" alt="hrishavvv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishavvv&theme=tokyonight&show_icons=true&layout=compact" alt="hrishavvv" /></p>

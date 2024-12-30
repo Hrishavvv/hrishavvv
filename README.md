@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/zrdUjl6N99nLq/giphy.gif?cid=790b76119kovreaaxpougp039ueza1l17szsqaqfeljf4fx2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="I'll Hack You">
 </p
 
-I always had a passion for creating new stuff :) <br>
+I like creating cool stuff :) <br>
 
 <i> Founder @ [Mad Aghori Games](https://www.instagram.com/madaghorigames/) </i>
 

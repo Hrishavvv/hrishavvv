@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/zrdUjl6N99nLq/giphy.gif?cid=790b76119kovreaaxpougp039ueza1l17szsqaqfeljf4fx2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="I'll Hack You">
 </p
 
-I like to code :)
+I always had a passion for creating new stuff and coding gave me a new way to present my visualizations :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

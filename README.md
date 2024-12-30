@@ -3,11 +3,7 @@
   <img src="https://media.giphy.com/media/zrdUjl6N99nLq/giphy.gif?cid=790b76119kovreaaxpougp039ueza1l17szsqaqfeljf4fx2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="I'll Hack You">
 </p
 
-- 🔭 I’m currently working on [ElectronOS](https://github.com/Hrishavvv/Electron)
-- 🌱 I’m currently learning **React, Rust, C#**
-- 👨‍💻 All of my projects are available at [https://github.com/Hrishavvv?tab=repositories](https://github.com/Hrishavvv?tab=repositories)
-- 💬 Ask me about **java, python, javascript, cybersecurity**
-- ⚡ Fun fact **I have learnt pretty much everything from the Internet**
+I like to code :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

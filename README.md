@@ -4,6 +4,7 @@
 </p
 
 I always had a passion for creating new stuff and coding gave me a new way to present my visualizations :)
+Founder @ (Mad Aghori Games)[https://www.instagram.com/madaghorigames/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
